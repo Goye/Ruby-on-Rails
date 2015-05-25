@@ -1,0 +1,24 @@
+
+
+Started GET "/" for ::1 at 2015-05-25 11:27:09 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/cargoyen/.rvm/gems/ruby-2.0.0-p643/gems/railties-4.2.1/lib/rails/templates/rails/welcome/index.html.erb (1.5ms)
+Completed 200 OK in 51ms (Views: 42.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for ::1 at 2015-05-25 11:27:22 -0500
+Processing by Rails::InfoController#properties as */*
+  Rendered /Users/cargoyen/.rvm/gems/ruby-2.0.0-p643/gems/railties-4.2.1/lib/rails/templates/rails/info/properties.html.erb (0.4ms)
+Completed 200 OK in 73ms (Views: 9.6ms | ActiveRecord: 47.2ms)
+
+
+Started GET "/" for ::1 at 2015-05-25 11:29:42 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/cargoyen/.rvm/gems/ruby-2.0.0-p643/gems/railties-4.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 18ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-05-25 11:29:42 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/cargoyen/.rvm/gems/ruby-2.0.0-p643/gems/railties-4.2.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
