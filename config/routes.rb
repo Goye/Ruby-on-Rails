@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
+  get 'usuario/index'
+
   get 'miprueba/index'
+  get 'miprueba/edit'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

@@ -3,4 +3,9 @@ class MipruebaController < ApplicationController
     @date = Time.now 
     @titulo = "Rails project"
   end
+
+  def edit
+    @titulo = "Rails edit project"
+    @date = Time.now.day
+  end
 end
